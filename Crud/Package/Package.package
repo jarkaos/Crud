@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="660a06d2-3d08-4fb4-ae59-15415a936f85" 
+        solutionId="660a06d2-3d08-4fb4-ae59-15415a936f85" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Crud"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="d547714e-a3bc-4e90-a306-dc4a09d923d6" />
+  </features>
+</package>
